@@ -40,7 +40,7 @@ Example projects include:
 | **Farmacy Management System** | Allows users to create, view, and track workouts. | `projects/workout-tracker/` |
 
 💻 **Live Portfolio:**  
-Check my full-stack apps deployed on **Vercel** → [rahwa-portfolio.vercel.app]([https://rahwa-portfolio.vercel.app](https://myportfolio-p4qa.vercel.app/))
+Check my full-stack apps deployed on **Vercel** → [rahwa-portfolio.vercel.app]((https://myportfolio-p4qa.vercel.app/))
 
 ---
 
