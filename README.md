@@ -58,7 +58,7 @@ Check my full-stack apps deployed on **Vercel** → [rahwa-portfolio.vercel.app]
 
 - **Email:** rahwa3113@gmail.com 
 - **LinkedIn:** [linkedin.com/in/rahwa-gebreyesus](https://www.linkedin.com/in/rahwa-gebresilassie) 
-- **GitHub:** [github.com/yourusername](https://github.com/rahwa21-ux)
+- **GitHub:** [github.com/rahwa21-ux](https://github.com/rahwa21-ux)
 
 ---
 
